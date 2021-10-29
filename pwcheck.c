@@ -90,7 +90,7 @@ bool is_alpha(char in, bool alpha_case)
 /*
 checks if a character is a number 
 @param char in checked character 
-@return bool 
+@return bool test 
 */
 bool is_number(char in)
 {
